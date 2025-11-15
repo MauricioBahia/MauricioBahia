@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MauricioBahia
+- 👋 Hi, I’m @Mauricio Bahia
 - 👀 I’m interested in Programaçõa
 - 🌱 I’m currently learning ciências da computação
 - 💞️ I’m looking to collaborate on pequenos projetos
-- 📫 How to reach me mbcx.fiel@gmail.com
+- 📫 How to reach me mbcxprogramacao@gmail.com
 
 
 <!---
